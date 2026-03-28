@@ -1,0 +1,22 @@
+# Models
+*.pt
+
+# Videos
+*.avi
+*.mp4
+output_videos/
+
+# Large assets
+*.mov
+*.mkv
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+
+# Mac
+.DS_Store
